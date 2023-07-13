@@ -1,0 +1,96 @@
+{
+  "allocations": [
+    {
+      "id": 1,
+      "amount": 100,
+      "name": "Default44",
+      "group": "Living",
+      "queue": "Reserved"
+    },
+    {
+      "id": 2,
+      "amount": 100,
+      "name": "Default",
+      "group": "Living",
+      "queue": "Everyday"
+    },
+    {
+      "id": 3,
+      "amount": 100,
+      "name": "Default",
+      "group": "Debt",
+      "queue": "Scheduled"
+    },
+    {
+      "id": 4,
+      "amount": 100,
+      "name": "Default",
+      "group": "Living",
+      "queue": "Reserved"
+    },
+    {
+      "amount": 100,
+      "name": "Default",
+      "group": "Living",
+      "queue": "Scheduled",
+      "percentage": 10,
+      "id": 5
+    },
+    {
+      "amount": 100,
+      "name": "Default",
+      "group": "Living",
+      "queue": "Scheduled",
+      "percentage": 10,
+      "id": 6
+    },
+    {
+      "amount": "8",
+      "name": "Jhjh",
+      "group": "Debt",
+      "queue": "Reserved",
+      "percentage": 10,
+      "id": 7
+    },
+    {
+      "amount": "33",
+      "name": "Asdasd",
+      "group": "Debt",
+      "queue": "Everyday",
+      "percentage": 10,
+      "id": 8
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Blue bottle",
+      "amount": 5,
+      "queue": null,
+      "date": "Aug 24, 2023",
+      "item": null,
+      "isPreConfirmed": true,
+      "account": "Bank Of America"
+    },
+    {
+      "id": 2,
+      "title": "Title goes here1",
+      "amount": 45,
+      "queue": "Reserved",
+      "date": "Aug 24, 2023",
+      "item": "Mortage",
+      "isPreConfirmed": true,
+      "account": "Chase"
+    },
+    {
+      "id": 3,
+      "title": "Title goes here1",
+      "amount": 45,
+      "queue": "Scheduled",
+      "date": "Aug 24, 2023",
+      "item": "Mortage",
+      "isPreConfirmed": true,
+      "account": "Bank Of America"
+    }
+  ]
+}
